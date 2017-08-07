@@ -1,4 +1,7 @@
 # QuickSolver-ML
+
+Link of the competition: https://datahack.analyticsvidhya.com/contest/avdatafest-the-quicksolver/
+
 ### Problem Statement
 We, digital publication house, require your help. We have a number of articles on multiple topics / category related to general knowledge, practical well being, sports, health and others written by distinguished authors in these fields. We are doing an analysis of our readers and trying to build a better platform for our followers.
 
