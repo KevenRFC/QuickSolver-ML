@@ -10,12 +10,11 @@ One of the biggest challenge we face is that when a user comes to our portal, we
 Currently, users have an option to rate articles after reading the article. We have given the train dataset having rating on articles by users, now it is your task to predict how much would the user like an article (give star) in test data set.
 
 ### Data
-You have been given three files in train.zip and one file in test.zip. Here is a brief description about these files
-
-article.csv: Specifies characteristics of an article
-train.csv: Specifies rating given to an article given by a user
-user.csv: Specifies characteristics of a user
-test.csv: Specifies rating given to an article given by a user
+You have been given three files in train.zip and one file in test.zip. Here is a brief description about these files:
+ article.csv: Specifies characteristics of an article
+ train.csv: Specifies rating given to an article given by a user
+ user.csv: Specifies characteristics of a user
+ test.csv: Specifies rating given to an article given by a user
 
 ### Evaluation Metric:
 RMSE is the evaluation metric for this contest
