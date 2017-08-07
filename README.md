@@ -11,10 +11,14 @@ Currently, users have an option to rate articles after reading the article. We h
 
 ### Data
 You have been given three files in train.zip and one file in test.zip. Here is a brief description about these files:
- article.csv: Specifies characteristics of an article
- train.csv: Specifies rating given to an article given by a user
- user.csv: Specifies characteristics of a user
- test.csv: Specifies rating given to an article given by a user
+
+  article.csv: Specifies characteristics of an article
+  
+  train.csv: Specifies rating given to an article given by a user
+  
+  user.csv: Specifies characteristics of a user
+  
+  test.csv: Specifies rating given to an article given by a user
 
 ### Evaluation Metric:
 RMSE is the evaluation metric for this contest
